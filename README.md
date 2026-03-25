@@ -118,12 +118,11 @@ power-quality-event-classification/
 ![Robustness](results/robustness.png)
 
 ## 🛠️ Technologies Used
-- Python
-- NumPy
-- SciPy
-- Scikit-learn
-- PyWavelets
-- Matplotlib
+- MATLAB
+- Signal Processing Toolbox
+- Wavelet Toolbox
+- Statistics and Machine Learning Toolbox
+- Simulink (for system demonstration)
 
 ## 🚀 Future Scope
 - Real-time implementation using embedded systems
